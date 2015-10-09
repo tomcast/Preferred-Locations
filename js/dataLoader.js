@@ -18,4 +18,3 @@ var tracts = new L.GeoJSON.AJAX("data/wayneCensusTracts.json");
 existing.addTo(mapOne);
 potential.addTo(mapTwo);
 tracts.addTo(mapOne);
-
